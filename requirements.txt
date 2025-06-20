@@ -9,3 +9,4 @@ nbformat
 beautifulsoup4
 streamlit-option-menu
 joblib
+nbconvert
