@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+xgboost
+pandas
+numpy
+matplotlib
+seaborn
+nbformat
+beautifulsoup4
+streamlit-option-menu
+joblib
